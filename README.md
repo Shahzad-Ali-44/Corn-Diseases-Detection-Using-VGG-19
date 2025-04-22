@@ -1,4 +1,4 @@
-# Corn Diseases Detection Using VGG-19
+# Corn Leafs Diseases Detection Using VGG-19
 
 ## Overview
 This project leverages the VGG-19 deep learning model for accurate detection of corn diseases. Fine-tuned on a curated dataset, the model achieves an impressive **94.24% accuracy** on the test set, providing a robust tool for agricultural disease diagnosis.
